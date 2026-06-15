@@ -1,6 +1,6 @@
 # Federated Learning-Based Privacy-Preserving Disease Prediction System
 
-This project is a runnable M.Tech thesis prototype for privacy-preserving disease prediction using federated learning.
+This project is for privacy-preserving disease prediction using federated learning.
 
 It simulates multiple hospitals/clients. Each client trains locally on its own patient data and sends only model parameters to the server. The server combines the models using Federated Averaging. Raw patient records are never shared.
 
